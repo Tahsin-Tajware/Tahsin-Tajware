@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm A.S.M Tahsin Tajware</h1>
 <h3 align="center">Undergraduate student | CSE Department | Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/main/gif2.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/main/gif2.gif"> -->
 
 - 🌱 I’m currently learning **Javascript,React js**
 
