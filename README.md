@@ -2,7 +2,7 @@
 <h3 align="center">Undergraduate student | CSE Department | Competitive Programmer</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/2bf71d5d49c446b787508ee5ef91248f0987d944/code.gif">
 
-- 🌱 I’m currently learning **Javascript, React js**
+- 🌱 I’m currently learning JavaScript, React.js, PHP Laravel
 - 💬 Ask me about **Flutter, C, C++, Java**
 - 📫 How to reach me **tahsintajware12345@gmail.com**
 - 🔧 Currently working on [CourseMate](https://github.com/Tahsin-Tajware/CourseMate)
@@ -40,7 +40,11 @@
   <a href="https://atcoder.jp/users/tahsin_tajware" target="_blank">
     <img src="https://img.shields.io/badge/atcoder-logo?style=for-the-badge&logo=atcoder&logoColor=white&color=%233DC6C1" alt="AtCoder" />
   </a>
+  <a href="https://www.stopstalk.com/user/profile/Tahsin_Tajware" target="_blank">
+    <img src="https://img.shields.io/badge/stopstalk-logo?style=for-the-badge&logo=stopstalk&logoColor=white&color=yellow" alt="StopStalk" />
+  </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
