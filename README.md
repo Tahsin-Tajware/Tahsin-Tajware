@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A.S.M Tahsin Tajware</h1>
 <h3 align="center">Undergraduate student | CSE Department | Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="![Image](https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/2bf71d5d49c446b787508ee5ef91248f0987d944/code.gif)">
+<img align="right" alt="Coding" width="200" src="https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/2bf71d5d49c446b787508ee5ef91248f0987d944/code.gif">
 
 - 🌱 I’m currently learning **Javascript, React js**
 - 💬 Ask me about **Flutter, C, C++, Java**
@@ -10,9 +10,6 @@
 <h3 align="left">Connect with Me:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/tahsin_tajware" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-logo?style=for-the-badge&logo=twitter&logoColor=white&color=%231DA1F2" alt="Twitter" />
-  </a>
   <a href="https://linkedin.com/in/tahsintajware" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2" alt="LinkedIn" />
   </a>
@@ -22,22 +19,29 @@
   <a href="https://instagram.com/tahsin.tajware" target="_blank">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23E4405F" alt="Instagram" />
   </a>
+  <a href="https://twitter.com/tahsin_tajware" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-logo?style=for-the-badge&logo=twitter&logoColor=white&color=%231DA1F2" alt="Twitter" />
+  </a>
+  <a href="https://codeforces.com/profile/tahsin.tajware" target="_blank">
+    <img src="https://img.shields.io/badge/codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%23FF0000" alt="CodeForces" />
+  </a>
+  <a href="https://www.leetcode.com/tahsin_tajware" target="_blank">
+    <img src="https://img.shields.io/badge/leetcode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116" alt="LeetCode" />
+  </a>
   <a href="https://www.codechef.com/users/tahsin_tajware" target="_blank">
     <img src="https://img.shields.io/badge/codechef-logo?style=for-the-badge&logo=codechef&logoColor=white&color=%235B4636" alt="CodeChef" />
   </a>
   <a href="https://www.hackerrank.com/tahsin_cse_20221" target="_blank">
     <img src="https://img.shields.io/badge/hackerrank-logo?style=for-the-badge&logo=hackerrank&logoColor=white&color=%2329B474" alt="HackerRank" />
   </a>
-  <a href="https://codeforces.com/profile/tahsin.tajware" target="_blank">
-    <img src="https://img.shields.io/badge/codeforces-logo?style=for-the-badge&logo=codeforces&logoColor=white&color=%231F8ACB" alt="CodeForces" />
+  <a href="https://toph.co/u/tahsin.tajware006" target="_blank">
+    <img src="https://img.shields.io/badge/toph-logo?style=for-the-badge&logo=toph&logoColor=white&color=%23007BFF" alt="Toph" />
   </a>
-  <a href="https://www.leetcode.com/tahsin_tajware" target="_blank">
-    <img src="https://img.shields.io/badge/leetcode-logo?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerearth.com/tahsin.cse.20220104006" target="_blank">
-    <img src="https://img.shields.io/badge/hackerearth-logo?style=for-the-badge&logo=hackerearth&logoColor=white&color=%23285B9A" alt="HackerEarth" />
+  <a href="https://atcoder.jp/users/tahsin_tajware" target="_blank">
+    <img src="https://img.shields.io/badge/atcoder-logo?style=for-the-badge&logo=atcoder&logoColor=white&color=%233DC6C1" alt="AtCoder" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
