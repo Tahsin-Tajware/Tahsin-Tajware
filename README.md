@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A.S.M Tahsin Tajware</h1>
 <h3 align="center">Undergraduate student | CSE Department | Competitive Programmer</h3>
-<img align="right" alt="Coding" width="400" src="![Image](https://github.com/user-attachments/assets/8bf7d188-56d5-44c8-98a8-c04ee11d4010)">
+<img align="right" alt="Coding" width="400" src="![Image](https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/2bf71d5d49c446b787508ee5ef91248f0987d944/code.gif)">
 
 - 🌱 I’m currently learning **Javascript, React js**
 - 💬 Ask me about **Flutter, C, C++, Java**
