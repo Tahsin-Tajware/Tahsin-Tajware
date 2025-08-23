@@ -2,10 +2,10 @@
 <h3 align="center">Undergraduate student | CSE Department | Competitive Programmer</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/2bf71d5d49c446b787508ee5ef91248f0987d944/code.gif">
 
-- 🌱 I’m currently learning JavaScript, React.js, PHP Laravel
+- 🌱 I’m currently learning ASP.NET Core MVC, C#, and PostgreSQL.
 - 💬 Ask me about **Flutter, C, C++, Java**
 - 📫 How to reach me **tahsintajware12345@gmail.com**
-- 🔧 Currently working on [CourseMate](https://github.com/Tahsin-Tajware/CourseMate)
+- 🔧 Currently working on [CourseMate](https://github.com/Tahsin-Tajware/CourseMate-Using-ASP.NET-CORE.git)
 
 <h3 align="left">Connect with Me:</h3>
 
@@ -51,6 +51,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">&nbsp;
   <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C" alt="C++">&nbsp;
+  <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp&logoColor=239120" alt="C#">&nbsp;
+  <img src="https://img.shields.io/badge/-ASP.NET%20Core-05122A?style=flat&logo=dotnet&logoColor=512BD4" alt="ASP.NET Core">&nbsp;
   <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=777BB4" alt="PHP">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=007396" alt="Java">&nbsp;
@@ -63,6 +65,7 @@
   <img src="https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2" alt="Dart">&nbsp;
   <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248" alt="MongoDB">&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1" alt="MySQL">&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791" alt="PostgreSQL">&nbsp;
   <img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28" alt="Firebase">&nbsp;
   <img src="https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel&logoColor=FF2D20" alt="Laravel">&nbsp;
   <img src="https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E" alt="Figma">&nbsp;
@@ -77,6 +80,7 @@
   <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=E34F26" alt="HTML">&nbsp;
   <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=1572B6" alt="CSS">&nbsp;
 </p>
+
 
 
 <div align="center">
