@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm A.S.M Tahsin Tajware</h1>
+<h1 align="center">Hi, I'm A.S.M Tahsin Tajware</h1>
 <h3 align="center">Undergraduate student | CSE Department | Competitive Programmer</h3>
 <img align="right" alt="Coding" width="200" src="https://github.com/Tahsin-Tajware/Tahsin-Tajware/blob/2bf71d5d49c446b787508ee5ef91248f0987d944/code.gif">
 
 - 🌱 I’m currently learning ASP.NET Core MVC, C#, and PostgreSQL.
 - 💬 Ask me about **Flutter, C, C++, Java**
 - 📫 How to reach me **tahsintajware12345@gmail.com**
-- 🔧 Currently working on [CourseMate](https://github.com/Tahsin-Tajware/CourseMate-Using-ASP.NET-CORE.git)
 
 <h3 align="left">Connect with Me:</h3>
 
@@ -90,7 +89,7 @@
        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahsin-tajware&theme=chartreuse_dark" alt="Profile Details" />
       </td>
             <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=tahsin-tajware&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tahsin-tajware&theme=github_dark" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
